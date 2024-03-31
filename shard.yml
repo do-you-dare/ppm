@@ -1,0 +1,13 @@
+name: ppm
+version: 0.1.0
+
+authors:
+  - Edu <esilva@protonmail.ch>
+
+targets:
+  ppm:
+    main: src/ppm.cr
+
+crystal: '>= 1.11.2'
+
+license: MIT
