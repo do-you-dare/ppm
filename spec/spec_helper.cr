@@ -1,2 +1,5 @@
 require "spec"
 require "../src/ppm"
+require "../src/expression_collector.cr"
+require "../src/in_memory_db.cr"
+require "../src/expression_parser.cr"
